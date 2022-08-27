@@ -8,7 +8,7 @@ This is version 0.1 (first early version).
 
 ## About
 
-This is an early version space shooter game, which I have made using Python using the Pygame library. You control a spaceship, and can shoot lasers to destroy incoming meteors.
+This is an early version of a space shooter game which I have made using Python using the Pygame library. You control a spaceship, and can shoot lasers to destroy incoming meteors.
 
 ## Future updates
 
@@ -23,3 +23,8 @@ Here are some of the features I plan to add to this game:
 ## Change log
 
 No changes as of yet.
+
+# Credits
+
+All sprites and most sounds from kenney.nl.
+'Explosion' sound from opengameart.org (https://opengameart.org/content/bombexplosion8bit)
