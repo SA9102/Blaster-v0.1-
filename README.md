@@ -22,7 +22,7 @@ Here are some of the features I plan to add to this game:
   
 ## Change log
 
-No changes as of yet.
+  - 27/08/22 - Released first early version of the game.
 
 # Credits
 
