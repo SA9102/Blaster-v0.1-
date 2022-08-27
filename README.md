@@ -26,6 +26,6 @@ No changes as of yet.
 
 # Credits
 
-All sprites and most sounds from kenney.nl.
+Sprites, fonts and most sounds from kenney.nl.
 
 'Explosion' sound from opengameart.org (https://opengameart.org/content/bombexplosion8bit)
